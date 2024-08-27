@@ -15,7 +15,7 @@ Hi there! I'm ** Aravind **, a DevOps enthusiast currently diving into AWS, and 
 - **Cloud Platforms:** AWS, Azure
  
 ## 🌐 Connect with Me
-- [LinkedIn](www.linkedin.com/in/aravind-m-77a953313/)
+- [LinkedIn](www.linkedin.com/in/aravind-m-77a953313)
  
 ## 📫 How to Reach Me
 Feel free to contact me via email at [aravindaravind7139@gmail.com](mailto:aravindaravind7139@gmail.com).
